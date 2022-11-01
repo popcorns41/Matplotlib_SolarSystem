@@ -1,0 +1,35 @@
+n: Sun
+c: orange
+m: 2000000
+px: 0
+py: 0
+r: 0.2
+
+n: Mercury
+c: gray
+m: 3.285
+px:0.58
+py:0
+r: 0.03
+
+n: Venus
+c: moccasin
+m: 48.673
+px:1.082
+py:0.0
+r: 0.08
+
+n: Earth
+c: blue
+m: 59.722
+px: 1.496
+py:0.0
+r: 0.1
+
+n: Mars
+c: red
+m: 6.39
+px:2.279
+py:0.0
+r: 0.05
+
